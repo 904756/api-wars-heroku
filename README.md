@@ -11,7 +11,7 @@ Wars universe, store visitor preferences with cookies and handle user login with
 sessions.
 
 ## What are you going to learn?
-
+ment
 - create a Flask backend project
 - use routes with Flask
 - use Bootstrap
